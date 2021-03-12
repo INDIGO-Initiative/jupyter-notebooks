@@ -14,6 +14,10 @@ Select the notebook you want from the list below. Press the button to open the n
 
 * Find organisations not used in any projects [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/find-orgs-not-used-in-any-projects/find-orgs-not-used-in-any-projects.ipynb)
 
+
+
+
+Any notebooks you have previously saved should be available in a list when you open [the Google Colab homepage](https://colab.research.google.com).
 ## To add a new notebook or edit an existing repository
 
 Please do!
@@ -22,9 +26,9 @@ To export a notebook from Google Colab:
 
 1. Click `Edit` -> `Clear all outputs`
 1. Make sure no secret information (API Keys, etc) is in the document.
-1. Click `File` -> Download `.ipynb`
+1. Click `File` -> `Download .ipynb`
 1. Create a new branch of this repository
-1. Add your .ipynb file, creating a new directory if you need to
+1. Add your `.ipynb` file, creating a new directory if you need to
 1. Update this readme file, if you need to
 1. Commit, push to GitHub and make a new pull request
 
