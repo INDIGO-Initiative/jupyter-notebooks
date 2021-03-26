@@ -25,6 +25,7 @@ Select the notebook you want from the list below. Press the button to open the n
 | Social Investment/Fund Manager Prototypes 4 - Technical assistance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/technical-assistance/technical-assistance.ipynb) |
 | Stage of development pie chart | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/stage-of-development/stage-of-development.ipynb) |
 | Sustainable development goals Sankey diagram | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/sustainable-development-goals-sankey/sustainable-development-goals-sankey.ipynb) |
+| Fund and Project Timelines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/fund-and-project-timelines/fund-and-project-timelines.ipynb) |
 
 Any notebooks you have previously saved should be available in a list when you open [the Google Colab homepage](https://colab.research.google.com).
 ## To add a new notebook or edit an existing repository
