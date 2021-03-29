@@ -28,6 +28,8 @@ Select the notebook you want from the list below. Press the button to open the n
 | Project Sustainable development goals Sankey diagram | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/project-sustainable-development-goals-sankey/project-sustainable-development-goals-sankey.ipynb) |
 | Fund Sustainable development goals Sankey diagram | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/fund-sustainable-development-goals-sankey/fund-sustainable-development-goals-sankey.ipynb) |
 | Fund and Project Timelines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/fund-and-project-timelines/fund-and-project-timelines.ipynb) |
+| Fund and Project - Compare Values | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INDIGO-Initiative/jupyter-notebooks/blob/main/fund-and-project-compare-values/fund-and-project-compare-values.ipynb) |
+
 
 Any notebooks you have previously saved should be available in a list when you open [the Google Colab homepage](https://colab.research.google.com).
 ## To add a new notebook or edit an existing repository
